@@ -178,7 +178,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     </div>
                     <div class="info-item">
                         <div class="info-label">Последний визит</div>
-                        <div class="info-value">Сегодня, 15:30</div>
+                        <div class="info-value">Сегодня, 15:40</div>
                     </div>
                     <div class="info-item">
                         <div class="info-label">Статус</div>
@@ -242,4 +242,5 @@ document.addEventListener('DOMContentLoaded', function() {
     }, 1000);
 
 });
+
 
