@@ -174,7 +174,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <div class="info-grid">
                     <div class="info-item">
                         <div class="info-label">Записей в БД</div>
-                        <div class="info-value">42</div>
+                        <div class="info-value">43</div>
                     </div>
                     <div class="info-item">
                         <div class="info-label">Последний визит</div>
@@ -242,3 +242,4 @@ document.addEventListener('DOMContentLoaded', function() {
     }, 1000);
 
 });
+
